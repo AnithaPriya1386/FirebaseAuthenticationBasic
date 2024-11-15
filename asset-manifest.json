@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/FirebaseAuthenticationBasic/static/css/main.3b8c7639.css",
+    "main.js": "/github.io/FirebaseAuthenticationBasic/static/js/main.8bc9b030.js",
+    "static/js/453.732b6a37.chunk.js": "/github.io/FirebaseAuthenticationBasic/static/js/453.732b6a37.chunk.js",
+    "index.html": "/github.io/FirebaseAuthenticationBasic/index.html",
+    "main.3b8c7639.css.map": "/github.io/FirebaseAuthenticationBasic/static/css/main.3b8c7639.css.map",
+    "main.8bc9b030.js.map": "/github.io/FirebaseAuthenticationBasic/static/js/main.8bc9b030.js.map",
+    "453.732b6a37.chunk.js.map": "/github.io/FirebaseAuthenticationBasic/static/js/453.732b6a37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8c7639.css",
+    "static/js/main.8bc9b030.js"
+  ]
+}
